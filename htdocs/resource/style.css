@@ -1,0 +1,14 @@
+.header{
+	background-color: red;
+	color: white;
+}
+
+.header-button{
+	background-color:black; 
+	color:white;
+}
+
+.nav-button:link{
+	background-color: yellow;
+	color: grey;
+}
